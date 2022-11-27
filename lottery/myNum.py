@@ -18,7 +18,7 @@ def getNum(num):
     return setn
 
 def main():
-    x = [2, 11, 85, 37]
+    x = [9, 10]
     for i in range(100):
         if i in x:
             print(getNum(35), getNum(12))
